@@ -1,17 +1,13 @@
 # Angular_JS Tutorial
 >##Learning Angular with my tutorial will help you to get idea about it.
 > Frist will learn basic of AngularJS, such as
-+ Directive
-+ Expressions
-+ Filters
-+ Modules
-+ Controllers.
+* Directive
+* Expressions
+* Filters
+* Modules
+* Controllers.
 
-##AngularJS History
->AngularJS version 1.0 was released in 2012.
->Google employee, Misko Hevery started working with AngularJS in 2009.
-
-## Try This code:
+Try This code:
 >```angularjs
 ><!DOCTYPE html>
 ><html lang="en-US">
@@ -24,7 +20,12 @@
 </body>
 </html>
 ```
+
 >In 'name' it will show the name you gonna type inside the input box.
 >Try it yourself and see the code.
 
 >You must need basic about HTML,CSS, JavaScript before planning to learn AngularJs.
+
+##AngularJS History
+>AngularJS version 1.0 was released in 2012.
+>Google employee, Misko Hevery started working with AngularJS in 2009.
