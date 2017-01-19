@@ -1,13 +1,13 @@
 # Angular_JS Tutorial
 >##Learning Angular with my tutorial will help you to get idea about it.
 > Frist will learn basic of AngularJS, such as
-* Directive
-* Expressions
-* Filters
-* Modules
-* Controllers.
+1. Directive
+2. Expressions
+3. Filters
+4. Modules
+5. Controllers.
 
-Try This code:
+##Try This code:
 >```angularjs
 ><!DOCTYPE html>
 ><html lang="en-US">
