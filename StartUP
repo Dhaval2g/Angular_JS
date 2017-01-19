@@ -6,6 +6,12 @@
 + Filters
 + Modules
 + Controllers.
+
+##AngularJS History
+>AngularJS version 1.0 was released in 2012.
+>Google employee, Misko Hevery started working with AngularJS in 2009.
+
+## Try This code:
 >```angularjs
 ><!DOCTYPE html>
 ><html lang="en-US">
