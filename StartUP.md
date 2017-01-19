@@ -8,7 +8,7 @@
 5. Controllers.
 
 ##Try This code:
->```angularjs
+>```JavaScript
 ><!DOCTYPE html>
 ><html lang="en-US">
 ><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
