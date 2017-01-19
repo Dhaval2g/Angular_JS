@@ -25,3 +25,7 @@
 </body>
 </html>
 ```
+> Explanation:
+> The **ng-app** directivee tells AngularJS that the ```<div>``` element is the "owner" of and AngularJS **Application**.
+> The **ng-model** directive binds the value of the input field to the application variable **name.**
+> The **ng-bind** directivve binds the **innerHTML** of the ```<p>``` element to the applicaiton variable **name**.
